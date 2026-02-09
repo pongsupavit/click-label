@@ -2,7 +2,7 @@
 
 > **เครื่องมือสร้างสติกเกอร์ Click Label อัตโนมัติ — ลดความผิดพลาด พิมพ์ได้ทันที**
 
-[![Demo](https://img.shields.io/badge/Demo-Live-success)](https://pongsupavit.github.io/E248/)
+[![Demo](https://img.shields.io/badge/Demo-Live-success)](https://pongsupavit.github.io/click-label/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -18,7 +18,7 @@
 
 ## 🚀 เริ่มใช้งาน
 
-1. เปิด [pongsupavit.github.io/E248](https://pongsupavit.github.io/click-label/)
+1. เปิด [pongsupavit.github.io/click-label](https://pongsupavit.github.io/click-label/)
 2. เลือกรูปแบบ: MFD / MFD+EXP / MFD+EXP+LOT / กำหนดเอง
 3. กรอกวันที่ผลิต (MFD)
 4. กด **พิมพ์** หรือ **PDF** เพื่อส่งออก
